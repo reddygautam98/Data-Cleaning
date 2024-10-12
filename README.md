@@ -103,7 +103,7 @@ The **Layoffs Data Cleaning Project** provided valuable learning experiences in 
 
 This project has enhanced my technical capabilities and problem-solving skills, equipping me with the knowledge and experience to tackle complex data challenges and drive meaningful insights.
 
-##Conclusion
+## Conclusion
  - 🏁 Closing Thoughts
 
 The **Layoffs Data Cleaning Project** was an invaluable learning experience that sharpened my data analysis, cleaning, and visualization skills. It provided a comprehensive understanding of handling real-world datasets, dealing with imperfect data, and drawing meaningful insights to address significant business challenges. 
